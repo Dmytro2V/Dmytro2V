@@ -1,24 +1,8 @@
-### Hi there 👋
+### Dmytro
 
-<!--
-**Dmytro2V/Dmytro2V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-first integration / backend developer. I build systems that have to keep working: other people's APIs, payments, retries, tests.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... google sheets + apps scripts base of rental business
-- 🌱 I’m currently learning in App Academy Open
-- 👯 I’m looking to collaborate on app academy lessons (first month at 19 july 2022) or viber bot creation
-- 🤔 I’m looking for help with viber bot
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... i am a top level psychologist, switching to IT.
--->
-- 🔭 I’m currently working on ... google sheets + apps scripts base of rental business
-- 🌱 I’m currently learning in App Academy Open
-- 👯 I’m looking to collaborate on app academy lessons (first month at 19 july 2022) or viber bot creation
-- 🤔 I’m looking for help with viber bot
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... i am a top level psychologist, switching to IT.
+- **Since 2014:** the system behind a family-run rental business. Google Sheets with Apps Script, the bank's API through a Cloudflare Worker, a Telegram bot for tenants. The code is private.
+- **2022–23:** App Academy Open, full-stack programme. Most public repositories here come from the course.
+- **Now:** I work mostly through Claude Code, and every task starts with a spec.
+- **Also:** trained in systems and business analysis, communication and psychology. Earlier a commercial director and a literary editor.
